@@ -1,6 +1,9 @@
 <img src="https://github.com/Anderita-Games/.github/blob/main/banner.png">
 
+# About
+
 As a kid, I have always been interested in technology and programming. This passion led me to start creating apps using the Unity engine. Throughout my high school education, I made a total of 100 apps, which have all been published on the Google Play Store and a few on the iOS app store. All of the code for these apps can be found in this organization.
+# Background
 
 It all started when I made my first app as a freshman in 2015. I was so excited to show it to my dad, but he jokingly commented that it would be crazy to make 100 of them. However, I took this challenge seriously and set a goal to create 100 apps before graduating high school.
 
